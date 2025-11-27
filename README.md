@@ -8,7 +8,7 @@ This system allows monitoring of project progress, deadlines, team assignments, 
 
 ---    
  
-📌 Features
+📌 Features 
 ---
 
 - **Login Page** – Secure authentication for system users.  
