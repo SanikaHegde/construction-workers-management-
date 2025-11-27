@@ -2,7 +2,7 @@
 # 🏗️ Construction Workers Management System (PHP/MySQL) 
 
 The **Construction Workers Management System** is a simple web-based application built using **PHP & MySQL**.  
-It helps construction businesses manage their projects, employees, and work divisions efficiently.  
+It helps construction businesses manage their projects, employees, and work divisions efficiently.   
 
 This system allows monitoring of project progress, deadlines, team assignments, and employee details, making it easier for companies to stay organized.  
 
