@@ -19,7 +19,7 @@ This system allows monitoring of project progress, deadlines, team assignments, 
 - **Project Team Page** – Organize project teams and assign members.  
 - **Project List Page** – View and manage all projects with status and details.  
 - **Users Page** – Admin panel to manage system users.  
-- **Reminders & Notifications** – Alerts for upcoming deadlines (15 days before) and overdue projects.  
+- **Reminders & Notifications** – Alerts for upcoming deadlines (15 days before) and overdue projects.   
 
 ---
  🛠️ Tech Stack
